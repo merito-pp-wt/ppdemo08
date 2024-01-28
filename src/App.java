@@ -8,7 +8,7 @@ public class App {
 		int[] table1, table2;
 
 		table1 = new int[5];
-		table2 = new int[]{2, 4, 7, 3, 9};
+		table2 = new int[]{2, 4, 7, 3, 6};
 
 		for(int i = 0; i < table2.length; i++){
 			System.out.println("Element [" + i + "] to "+ table2[i]);
